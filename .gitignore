@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Checkpoints / models
+checkpoints/
+*.pth
+
+# Data directory
+data/
+
+# IDE and notebook
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
+# Other
+.env
+.DS_Store
