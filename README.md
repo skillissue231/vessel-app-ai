@@ -53,4 +53,4 @@ pip install -r requirements.txt
 
 ## License and Contact
 
-For questions or support, contact your.email@example.com.
+For questions or support, contact ahmet.copur@outlook.com.tr
